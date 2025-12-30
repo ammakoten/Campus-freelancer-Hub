@@ -1,2 +1,3 @@
-# Campus-freelancer-Hub
-Aplikasi ini di buatkan agar ketika ada mahasiswa yang mau membuka jasa mereka bisa menggunakan aplikasi ini. Untuk pengguna dari aplikasi ini ada 3 yaitu admin,freelancer dan client 
+Campus Freelancer Hub adalah aplikasi mobile berbasis Android yang dirancang untuk menghubungkan mahasiswa freelancer dengan client di lingkungan kampus. Aplikasi ini memudahkan pengguna dalam mencari, menawarkan, dan mengelola jasa melalui fitur login dan pendaftaran akun, pencarian jasa, pengelolaan pesanan, serta pengaturan profil pengguna berdasarkan peran admin, client, dan freelancer.
+
+Aplikasi ini dikembangkan menggunakan Android Studio dengan bahasa pemrograman Java dan database SQLite. Hasil pengujian menunjukkan bahwa aplikasi dapat berjalan dengan baik pada perangkat Android dan seluruh fitur utama berfungsi sesuai dengan perancangan. Campus Freelancer Hub dapat dijadikan sebagai dasar untuk pengembangan aplikasi mobile yang lebih lanjut.
